@@ -172,3 +172,4 @@ Este projecto é de carácter educacional e experimental. Sinta-se à vontade pa
 ## 👨‍💻 Autor
 
 Silas Manoel Graduando em Sistemas de Informação – UFPE
+Juan Henrique Carneiro Aguiar Paes - UFPE
